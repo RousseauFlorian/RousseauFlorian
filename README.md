@@ -60,4 +60,3 @@ I enjoy working across the full stack, from clean front-end interfaces to robust
 
 - GitHub: **@FlorianROUSSEAU**
 - LinkedIn: *(https://www.linkedin.com/in/florian-rousseau-575631234/*
-- Email: *contact@virtuotech.fr*
