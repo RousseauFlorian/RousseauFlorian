@@ -10,8 +10,6 @@ I enjoy working across the full stack, from clean front-end interfaces to robust
 
 ## 🔗 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://www.virtuotech.fr/)
-[![CV](https://img.shields.io/badge/CV-yellow?style=for-the-badge)](https://www.virtuotech.fr/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/RousseauFlorian)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/florian-rousseau-575631234/)
 
