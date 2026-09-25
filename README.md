@@ -1,7 +1,7 @@
 # Welcome 👋
 
 ## Florian ROUSSEAU
-**Full-Stack Developer | 23 years old**
+**Full-Stack Developer | 25 years old**
 
 Passionate about building modern, scalable and user-focused web applications.  
 I enjoy working across the full stack, from clean front-end interfaces to robust back-end architectures, with a strong focus on code quality and best practices.
